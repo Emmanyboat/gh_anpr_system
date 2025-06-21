@@ -1,0 +1,5 @@
+https://ozjfvcfkhuajljlfdjio.supabase.co  url for supabase
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im96amZ2Y2ZraHVhamxqbGZkamlvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTAxOTQ0NzUsImV4cCI6MjA2NTc3MDQ3NX0.7QBEW-65dDzTWcKxvtCVg7tVfRCRorDWCWPDsamRy3E  
+
+api key for supabase

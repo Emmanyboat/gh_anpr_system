@@ -1,0 +1,2 @@
+PS C:\Users\HPELITEBOOK\Desktop\gh_anpr_system> .\.venv\Scripts\Activate.ps1
+(.venv) PS C:\Users\HPELITEBOOK\Desktop\gh_anpr_system>
